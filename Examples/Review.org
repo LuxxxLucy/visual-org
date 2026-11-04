@@ -1,0 +1,52 @@
+#+TITLE: Project review
+#+TODO: TODO(t) ONGOING(o) PENDING(p) | DONE(d)
+
+A quiet place to see the work and decide what comes next.
+
+* Current [1/4]
+A short list for this week. [[https://orgmode.org][Org mode]] keeps it plain.
+- [X] Clear the desk
+- [ ] Review the projects
+  - [ ] Pick one next action
+  - [ ] Give it time on the calendar
+- [ ] Read /carefully/ and write *clearly*
+- [ ] Take a walk
+
+* ONGOING [#A] A place to think                                      :design:
+Build a clear view of the projects that deserve attention.
+** DONE Collect the references
+** TODO Sketch the review experience
+*** TODO Explore the collapsed card
+*** TODO Make the next action clear
+** TODO Try it with a real week of work
+
+* TODO [#A] Type specimen                                             :type:
+A small printed specimen of the letters, their rhythm, and their space.
+** DONE Choose the text
+** TODO Refine the lowercase spacing
+** TODO Print at reading size
+
+* ONGOING [#B] Reading notes                                      :research:
+Keep the useful ideas close to the work they can change.
+** TODO Read one paper carefully
+** TODO Write the argument in my own words
+** PENDING Discuss the open question
+
+* TODO [#B] Weekend walk                                         :personal:
+An afternoon outside, a camera, and time to look.
+** TODO Choose a trail
+** TODO Check the weather
+** TODO Pack light
+
+* PENDING [#C] Small experiments                                  :research:
+Ideas worth a short, concrete trial.
+** TODO Faster text layout
+*** TODO Measure one real paragraph
+*** TODO Compare two approaches
+** TODO A better daily review
+
+* DONE Studio shelf                                                :studio:
+Make space for the tools I use each day.
+** DONE Measure the wall
+** DONE Choose the materials
+** DONE Put everything in its place
